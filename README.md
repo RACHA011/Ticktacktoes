@@ -1,2 +1,6 @@
 # Tic_Tac_Toe
-simplae tic tac toe game
+simple tic tac toe game
+
+
+
+
